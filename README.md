@@ -7,3 +7,4 @@ Automatic Speech Recognition: Project 1
 - GMM training
 - GMM model dumping
 - GMM evaluation
+- Calculated frame level accuracy
