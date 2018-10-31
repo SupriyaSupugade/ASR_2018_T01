@@ -1,0 +1,8 @@
+sklearn
+numpy
+scipy
+matplotlib
+pandas
+pickle
+table
+python_speech_features
